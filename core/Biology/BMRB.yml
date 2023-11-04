@@ -1,0 +1,31 @@
+---
+title: Biological Magnetic Resonance Data Bank (BMRB)
+homepage: https://bmrb.io
+category: Biology
+description: BMRB collects, annotates, archives, and disseminates spectral and quantitative data derived from NMR spectroscopic investigations of biological macromolecules and metabolites.
+version:
+keywords: protein, NMR, spectrum.
+image: https://bmrb.io/images/BMRB_logo_text.svg
+temporal:
+spatial: 
+access_level: public
+copyrights:
+accrual_periodicity: 
+specification:
+data_quality: false
+data_dictionary: 
+language: en
+license: 
+publisher:
+  - name: 
+    web: 
+organization:
+  - name: UConn Health, Farmington, Conneticut, USA
+    web: https://health.uconn.edu
+issued_time: 
+sources:
+  - name: 
+    access_url: 
+references:
+  - title: 
+    reference: 

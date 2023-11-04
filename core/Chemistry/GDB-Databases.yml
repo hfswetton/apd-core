@@ -1,0 +1,31 @@
+---
+title: GDB Databases
+homepage: https://zenodo.org/records/5172018
+category: Chemistry
+description: The GDB databases enumerate small organic molecules following simple chemical stability and synthetic feasibility rules.
+version: 
+keywords: small molecule.
+image: 
+temporal:
+spatial: 
+access_level: public
+copyrights:
+accrual_periodicity: 
+specification:
+data_quality: false
+data_dictionary: 
+language: en
+license: 
+publisher:
+  - name: 
+    web: 
+organization:
+  - name: Reymond Research Group, University of Bern, Bern, Switzerland
+    web: https://gdb.unibe.ch
+issued_time: 
+sources:
+  - name: 
+    access_url: 
+references:
+  - title: 
+    reference: 

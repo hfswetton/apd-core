@@ -1,0 +1,31 @@
+---
+title: QMugs: Quantum Mechanical Properties of Drug-like Molecules
+homepage: https://doi.org/10.3929/ethz-b-000482129
+category: Chemistry
+description: The QMugs data collection comprises quantum mechanical properties of more than 665k biologically and pharmacologically relevant molecules extracted from the ChEMBL27 database (http://www.ebi.ac.uk/chembl), totaling ~2M conformers.
+version: 
+keywords: small molecules, DFT, GFN2-xTB, quantum chemistry.
+image: 
+temporal:
+spatial: 
+access_level: public
+copyrights:
+accrual_periodicity: 
+specification:
+data_quality: false
+data_dictionary: 
+language: en
+license: 
+publisher:
+  - name: 
+    web: 
+organization:
+  - name: Molecular Design Laboratory (MODLAB), Department of Chemistry and Applied Biosciences, ETH Zurich, Zurich, Switzerland
+    web: https://cadd.ethz.ch
+issued_time: 2021.06
+sources:
+  - name: 
+    access_url: 
+references:
+  - title: 
+    reference: 

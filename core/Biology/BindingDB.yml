@@ -1,0 +1,31 @@
+---
+title: BindingDB
+homepage: https://www.bindingdb.org
+category: Biology
+description: The first public molecular recognition database, BindingDB supports research, education and practice in drug discovery, pharmacology and related fields.
+version: 
+keywords: binding, protein, ligand, small molecule.
+image: 
+temporal:
+spatial: 
+access_level: public
+copyrights:
+accrual_periodicity: 
+specification:
+data_quality: false
+data_dictionary: 
+language: en
+license: 
+publisher:
+  - name: 
+    web: 
+organization:
+  - name: Skaggs School of Pharmacy and Pharmaceutical Sciences, University of California, San Diego, La Jolla, California, USA
+    web: https://pharmacy.ucsd.edu/
+issued_time: 
+sources:
+  - name: 
+    access_url: 
+references:
+  - title: 
+    reference: 

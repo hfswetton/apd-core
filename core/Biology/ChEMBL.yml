@@ -1,0 +1,31 @@
+---
+title: ChEMBL
+homepage: https://www.ebi.ac.uk/chembl/
+category: Biology
+description: ChEMBL is a manually curated database of bioactive molecules with drug-like properties. It brings together chemical, bioactivity and genomic data to aid the translation of genomic information into effective new drugs.
+version: 
+keywords: binding, assay, bioactive, small molecule.
+image: https://www.ebi.ac.uk/chembl/k8s/static/chembl/img/icons/chembl_logo_pink.png
+temporal:
+spatial: 
+access_level: public
+copyrights:
+accrual_periodicity: 
+specification:
+data_quality: false
+data_dictionary: 
+language: en
+license: CC BY-SA 3.0 Deed
+publisher:
+  - name: 
+    web: 
+organization:
+  - name: EMBL-EBI, Cambridge, United Kingdom
+    web: https://www.ebi.ac.uk
+issued_time: 
+sources:
+  - name: 
+    access_url: 
+references:
+  - title: 
+    reference: 
